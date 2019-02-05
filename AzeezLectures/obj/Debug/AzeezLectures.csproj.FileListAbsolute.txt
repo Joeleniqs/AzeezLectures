@@ -1,0 +1,7 @@
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\bin\Debug\AzeezLectures.exe.config
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\bin\Debug\AzeezLectures.exe
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\bin\Debug\AzeezLectures.pdb
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.csprojResolveAssemblyReference.cache
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.csproj.CoreCompileInputs.cache
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.exe
+c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.pdb
