@@ -5,3 +5,9 @@ c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLecture
 c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.csproj.CoreCompileInputs.cache
 c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.exe
 c:\users\user01\documents\visual studio 2017\Projects\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.pdb
+C:\Users\az\Documents\AzeezLectures2019\AzeezLectures\AzeezLectures\bin\Debug\AzeezLectures.exe.config
+C:\Users\az\Documents\AzeezLectures2019\AzeezLectures\AzeezLectures\bin\Debug\AzeezLectures.exe
+C:\Users\az\Documents\AzeezLectures2019\AzeezLectures\AzeezLectures\bin\Debug\AzeezLectures.pdb
+C:\Users\az\Documents\AzeezLectures2019\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.csprojResolveAssemblyReference.cache
+C:\Users\az\Documents\AzeezLectures2019\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.exe
+C:\Users\az\Documents\AzeezLectures2019\AzeezLectures\AzeezLectures\obj\Debug\AzeezLectures.pdb
