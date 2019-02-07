@@ -11,7 +11,9 @@ namespace AzeezLectures
         static void Main(string[] args)
         {
             WhileLoop initiator = new WhileLoop();
-            initiator.WhileLoopSample();
+            ForLoop caller = new ForLoop();
+            //initiator.WhileLoopSample();
+            caller.ForLoopSample();
             Console.ReadLine();
         }
     }
