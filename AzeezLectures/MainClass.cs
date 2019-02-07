@@ -12,8 +12,10 @@ namespace AzeezLectures
         {
             WhileLoop initiator = new WhileLoop();
             ForLoop caller = new ForLoop();
+            Fibbonaci call = new Fibbonaci();
+            call.CalculateFibbonaci();
             //initiator.WhileLoopSample();
-            caller.ForLoopSample();
+            //caller.ForLoopSample();
             Console.ReadLine();
         }
     }

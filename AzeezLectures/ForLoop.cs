@@ -26,7 +26,7 @@ namespace AzeezLectures
                 }
                 else if(startNumber % 5==0)
                 {
-                    Console.WriteLine("Fizz");
+                    Console.WriteLine("Buzz");
                 }
                 else if(startNumber % 3 == 0)
                 {
