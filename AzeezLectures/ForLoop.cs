@@ -18,7 +18,7 @@ namespace AzeezLectures
                 goto Repeat;
             }
 
-            for (int startNumber = 1; startNumber <= rangeNumber; startNumber ++)
+            for (int startNumber = 1; startNumber <= rangeNumber; startNumber++)
             {
                 if (startNumber % 5 == 0  && startNumber % 3 == 0 )
                 {
@@ -36,7 +36,6 @@ namespace AzeezLectures
                 {
                     Console.WriteLine(startNumber);
                 }
-                
             }
         }
     }
